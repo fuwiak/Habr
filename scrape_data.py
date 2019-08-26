@@ -2,7 +2,6 @@
 
 import urllib.request
 from bs4 import BeautifulSoup
-import re
 import pandas as pd
 
 
@@ -17,8 +16,6 @@ names_of_songs= [str(x)[str(x).index('<b>Руки Вверх!')+len('<b>Руки
 
 
 URLS = ['http://txtmusic.ru/'+l.a.get('href') for l in li]
-
-
 
 
 df = pd.DataFrame(columns=['name', 'text'])
