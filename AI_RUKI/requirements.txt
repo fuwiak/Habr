@@ -128,7 +128,7 @@ py==1.8.0
 pycosat==0.6.3
 pycparser==2.19
 pycrypto==2.6.1
-Pygments==2.4.2
+Pygments==2.7.4
 # PyInstaller==3.4
 pyOpenSSL==18.0.0
 pyparsing==2.3.0
