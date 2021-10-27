@@ -32,7 +32,7 @@ cork==0.1
 crypto==1.4.1
 cryptography==2.4.1
 cycler==0.10.0
-dask==2.1.0
+dask==2021.10.0
 dask-glm==0.2.0
 dask-ml==1.0.0
 dataclasses==0.6
