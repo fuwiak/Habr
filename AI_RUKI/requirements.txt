@@ -20,7 +20,7 @@ bottle-cork==0.12.0
 bottle-websocket==0.2.9
 bs4==0.0.1
 celery==4.1.0
-certifi==2019.6.16
+certifi==2022.12.7
 cffi==1.11.5
 cfscrape==2.0.5
 chardet==3.0.4
